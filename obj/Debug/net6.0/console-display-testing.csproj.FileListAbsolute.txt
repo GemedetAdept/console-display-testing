@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\console-display-testing.exe
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\console-display-testing.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\console-display-testing.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\console-display-testing.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\ref\console-display-testing.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\bin\Debug\net6.0\console-display-testing.pdb
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\ref\console-display-testing.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.pdb
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\console-display-testing\obj\Debug\net6.0\console-display-testing.genruntimeconfig.cache
